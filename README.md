@@ -1,1 +1,2 @@
-# Lab6_Cechman
+# JSPlatformer
+JS Platformer for DIG 3480C
